@@ -1,7 +1,6 @@
 import React from 'react';
 
-
-function contactReducer() {
+function ContactItems() {
     return ( 
         <>
         
@@ -9,4 +8,4 @@ function contactReducer() {
      );
 }
 
-export default contactReducer;
+export default ContactItems;
